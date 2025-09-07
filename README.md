@@ -1,4 +1,4 @@
-# Daily Gold Price Forecating
+# Daily Gold Price Forecasting
 ## About Dataset
 
 **Content:**
