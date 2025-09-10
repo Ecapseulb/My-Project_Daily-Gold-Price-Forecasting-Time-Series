@@ -1,4 +1,9 @@
 # Daily Gold Price Forecasting
+
+## Introduction
+
+This notebook documents how we train a LSTM model from a given dataset to forecast daily gold price. It includes EDA, model training and forecasting.
+
 ## About Dataset
 
 **Content:**
